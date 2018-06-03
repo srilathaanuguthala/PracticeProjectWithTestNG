@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9423" started-at="2018-05-14T03:52:02Z" finished-at="2018-05-14T03:52:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9423" started-at="2018-05-14T03:52:02Z" finished-at="2018-05-14T03:52:11Z">
+      <class name="TestNG.DemoTestNG">
+        <test-method status="PASS" signature="TestZipRecruiterLogin()[pri:0, instance:TestNG.DemoTestNG@465232e9]" name="TestZipRecruiterLogin" duration-ms="9395" started-at="2018-05-14T03:52:02Z" finished-at="2018-05-14T03:52:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestZipRecruiterLogin -->
+      </class> <!-- TestNG.DemoTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
